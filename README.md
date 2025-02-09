@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I like playing Guitar and Solving Rubic Cube**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">View My Profile:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ayux16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayux16/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ayux16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ayux16/" height="30" width="40" /></a>
