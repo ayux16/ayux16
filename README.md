@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-commerce website**
 
-- 🌱 I’m currently learning **Spring Boot and Advance DSA**
+- 🌱 I’m currently learning **Low-Level-Design patterns like creational(Singleton, Builder, Factory, Prototype with Registory), Structural(Adapter) and Behavioural(Strategy) also I am Learning Advance DSA**
 
 - 👯 I’m looking to collaborate on **Open Source projets**
 
