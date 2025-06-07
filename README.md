@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ayush Verma</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on **E-commerce website**
+- 🔭 I’m currently working on **E-commerce website  && Custom-PortFolio**
 
-- 🌱 I’m currently learning **Low-Level-Design patterns like creational(Singleton, Builder, Factory, Prototype with Registory), Structural(Adapter) and Behavioural(Strategy) also I am Learning Advance DSA**
+- 🌱 I’m currently learning **Right now I am sharpening my Skills in Design Patterns along with this I've been solving DSA problems**
 
 - 👯 I’m looking to collaborate on **Open Source projets**
 
-- 📫 How to reach me **ayushx16@gmail.com**
+- 📫 How to reach me **ayushx16@gmail.com || ayush.vermax16@gmail.com**
 
-- ⚡ Fun fact **I like playing Guitar and Solving Rubic Cube**
+- ⚡ Fun fact **I enjoy playing the guitar and solving the Rubik's Cube.**
 
 <h3 align="left">View My Profile:</h3>
 <p align="left">
